@@ -5,7 +5,7 @@ Welcome to the Fundamentals of Programming Languages Portfolio! This repository 
 
 About the Course
 
-The Fundamentals of Programming Languages course provides a comprehensive introduction to the core concepts and principles underlying programming languages. Through a combination of theoretical knowledge and practical exercises, Throught this course I have gaine insights into different programming paradigms, language structures, and implementation techniques.
+Programming fundamentals lay the groundwork for constructing software applications. These essential building blocks encompass syntax, the grammar of a programming language, and semantics, the meaning behind the code. Understanding data types, such as integers, floats, and strings, is crucial for representing different kinds of information. Variables serve as containers for storing data, allowing for dynamic manipulation. Control flow structures, including conditional statements and loops, dictate the program's execution path based on specific conditions. Functions modularize code, promoting reusability and code organization. Input and output operations facilitate communication between the program and the user or external systems. By mastering these core concepts, programmers can effectively design, implement, and maintain software solutions.
 
 Individual projects
 
