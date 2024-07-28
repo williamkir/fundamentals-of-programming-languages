@@ -17,6 +17,6 @@ Project 2: Grade system
 
 This code implements a simple grade system that converts numerical scores into letter grades. It defines grade boundaries and their corresponding letter grades, allowing users to input scores and receive immediate grading feedback. The system ensures input validity and provides continuous execution until the user chooses to exit.
 
-project File
+project File https://github.com/williamkir/fundamentals-of-programming-languages/blob/2e279c4b323cf29af76a7c380afe19468a9a244c/Gradesystem/Grade.py
 
 Grading system file
