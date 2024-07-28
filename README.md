@@ -11,7 +11,7 @@ Individual projects
 
 **Project 1: Area of shapes  **
 
-The provided Python code is a basic area calculator. It defines functions to calculate the areas of triangles, circles, and squares. The program presents a menu to the user, allowing them to choose the desired shape. Once a shape is selected, the program prompts for necessary dimensions (base and height for triangles, radius for circles, and length for squares), calculates the area using the appropriate formula, and displays the result. The process repeats until the user chooses to exit.
+This code is a basic area calculator. It defines functions to calculate the areas of triangles, circles, and squares. The program presents a menu to the user, allowing them to choose the desired shape. Once a shape is selected, the program prompts for necessary dimensions (base and height for triangles, radius for circles, and length for squares), calculates the area using the appropriate formula, and displays the result. The process repeats until the user chooses to exit.
 
 
 
