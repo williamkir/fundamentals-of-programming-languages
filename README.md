@@ -19,4 +19,20 @@ This code implements a simple grade system that converts numerical scores into l
 
 project File https://github.com/williamkir/fundamentals-of-programming-languages/blob/2e279c4b323cf29af76a7c380afe19468a9a244c/Gradesystem/Grade.py
 
-Grading system file
+
+
+**Project 3: Onepage Website **
+
+This code is a single HTML document that presents all its content on a single, vertically scrolling page. Unlike traditional multi-page websites, it doesn't require users to navigate through multiple pages to access information.
+Instead, content is divided into sections or modules that are revealed as the user scrolls down.
+
+
+
+
+**Project 4: Login Interface**
+
+This code is the programming logic that creates and manages the visual elements and functionalities associated with a user logging into a system. It typically involves a combination of HTML, CSS, and JavaScript for the frontend, and backend languages like Python, Java, or Node.js for server-side processing.
+
+
+
+
