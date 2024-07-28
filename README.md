@@ -10,3 +10,13 @@ The Fundamentals of Programming Languages course provides a comprehensive introd
 Individual projects
 
 Project 1: 
+
+
+
+Project 2: Grade system
+
+This code implements a simple grade system that converts numerical scores into letter grades. It defines grade boundaries and their corresponding letter grades, allowing users to input scores and receive immediate grading feedback. The system ensures input validity and provides continuous execution until the user chooses to exit.
+
+project File
+
+Grading system file
