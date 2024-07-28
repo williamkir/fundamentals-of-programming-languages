@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>One Page Website</title>
+    <link rel="stylesheet" href="onepage.css">
+</head>
+<body>
+    <header>
+        <h1>Take your gaming experience to the next level with PlayStation!</h1>
+        <button id="changeColor">Change Background Color</button>
+        <button id="toggleTheme">Toggle Light/Dark Mode</button>
+        <button id="increaseText">Increase Text Size</button>
+        <button id="decreaseText">Decrease Text Size</button>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About</h2>
+            <p>PlayStation is a popular gaming console developed and produced by Sony Interactive Entertainment. <br> Since the release of the original PlayStation in 1994, the brand has continued to innovate and dominate the gaming industry with each new iteration of the console. Known for its high-quality graphics, diverse game library, and user-friendly interface, PlayStation has garnered a loyal following of gamers around the world. <br> With exclusive titles like God of War, Uncharted, and The Last of Us, as well as popular multiplayer games like Call of Duty and Fortnite, PlayStation offers something for every type of gamer.</p>
+            <button id="ToggleAbout">Toggle About Section</button>
+        </section>
+        <section id="gallery">
+            <h2>Gallery</h2>
+            <div class="gallery">
+                <img src="images/ps1.jpg" alt="Image 1">
+                <img src="images/ps2.jpg" alt="Image 2">
+                <img src="images/ps3.jpg" alt="Image 3">
+            </div>
+            <button id="prev">Previous</button>
+            <button id="next">Next</button>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <form id="contactForm">
+                <input type="text" placeholder="Name">
+                <input type="email" placeholder="Email">
+                <textarea placeholder="Feedback"></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 PlayStation</p>
+        <button id="changeBackground">Change Background Image</button>
+    </footer>
+    
+    <script src="onepage.js"></script>
+</body>
+</html>
