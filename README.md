@@ -1,4 +1,4 @@
-#** Fundamentals-of-Programming-Languages**
+#Fundamentals-of-Programming-Languages**
 Fundamentals-of-programming-language-projects
 
 Welcome to the Fundamentals of Programming Languages Portfolio! This repository serves as a showcase of various projects completed during the course, including individual assignments and group projects.
@@ -9,7 +9,7 @@ Programming fundamentals lay the groundwork for constructing software applicatio
 
 Individual projects
 
-**Project 1: Area of shapes  **
+**Project 1: Area of shapes**
 
 This code is a basic area calculator. It defines functions to calculate the areas of triangles, circles, and squares. The program presents a menu to the user, allowing them to choose the desired shape. Once a shape is selected, the program prompts for necessary dimensions (base and height for triangles, radius for circles, and length for squares), calculates the area using the appropriate formula, and displays the result. The process repeats until the user chooses to exit.
 
@@ -23,7 +23,7 @@ project File https://github.com/williamkir/fundamentals-of-programming-languages
 
 
 
-**Project 3: Onepage Website **
+**Project 3: Onepage Website**
 
 This code is a single HTML document that presents all its content on a single, vertically scrolling page. Unlike traditional multi-page websites, it doesn't require users to navigate through multiple pages to access information.
 Instead, content is divided into sections or modules that are revealed as the user scrolls down.
