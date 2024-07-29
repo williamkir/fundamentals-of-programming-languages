@@ -35,5 +35,7 @@ Instead, content is divided into sections or modules that are revealed as the us
 This code is the programming logic that creates and manages the visual elements and functionalities associated with a user logging into a system. It typically involves a combination of HTML, CSS, and JavaScript for the frontend, and backend languages like Python, Java, or Node.js for server-side processing.
 
 
+**Project 5: Logic Programming**
+This Prolog knowledge base defines gender assignments and parent-child relationships within a family. It includes predicates to determine mothers, fathers, siblings, brothers, and sisters based on the defined relationships. Users can query the database to obtain information about family members and their relationships.
 
 
