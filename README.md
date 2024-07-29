@@ -36,6 +36,7 @@ This code is the programming logic that creates and manages the visual elements 
 
 
 **Project 5: Logic Programming**
+
 This Prolog knowledge base defines gender assignments and parent-child relationships within a family. It includes predicates to determine mothers, fathers, siblings, brothers, and sisters based on the defined relationships. Users can query the database to obtain information about family members and their relationships.
 
 
