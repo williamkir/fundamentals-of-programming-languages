@@ -19,7 +19,6 @@ This code is a basic area calculator. It defines functions to calculate the area
 
 This code implements a simple grade system that converts numerical scores into letter grades. It defines grade boundaries and their corresponding letter grades, allowing users to input scores and receive immediate grading feedback. The system ensures input validity and provides continuous execution until the user chooses to exit.
 
-project File https://github.com/williamkir/fundamentals-of-programming-languages/blob/2e279c4b323cf29af76a7c380afe19468a9a244c/Gradesystem/Grade.py
 
 
 
